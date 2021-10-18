@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+*{
+  font-family: 'Lato', sans-serif;
+}
+span{
+  -webkit-transition:all 10s ease-in;
+  transition:all 10s ease-in;
+  display:inline-block;
+}
+.fallen{
+  -webkit-transform:translate(0,1000px);
+  transform:translate(0,1000px);
+}
+p{
+ margin:3em 5em;
+  font-family:Georgia,serif;
+  font-size:large;
+  color:#cde ;
+  
+}
+html{
+  background:#082940;
+}
